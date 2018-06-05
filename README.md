@@ -1,3 +1,7 @@
 # hello-world
 
-print "Taehoon's first github excercise"
+print "Taehoon's github excercise - the very first one"
+
+
+print "My name is..."
+
